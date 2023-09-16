@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
           {
-              "appID": "TeamID.com.ahsan.ExpTrack",
+              "appID": "5YL5HJ25US.com.ahsan.ExpTrack",
               "paths": [ "/redirect/*" ]
           }
       ]
