@@ -1,11 +1,15 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "details": [
+      {
+        "appIDs": ["5YL5HJ25US.com.ahsan.ExpTrack"],
+        "components": [
           {
-              "appID": "5YL5HJ25US.com.ahsan.ExpTrack",
-              "paths": [ "/redirect/*" ]
+            "/": "/plaid/*",
+            "comment": "Matches any URL path whose path starts with /plaid/"
           }
-      ]
+        ]
+      }
+    ]
   }
 }
